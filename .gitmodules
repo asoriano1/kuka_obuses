@@ -1,0 +1,18 @@
+[submodule "itowa_safe_pad"]
+	path = itowa_safe_pad
+	url = https://github.com/RobotnikAutomation/itowa_safe_pad
+[submodule "kuka_experimental"]
+	path = kuka_experimental
+	url = https://github.com/asoriano1/kuka_experimental
+[submodule "kuka_tool_description"]
+	path = kuka_tool_description
+	url = https://github.com/asoriano1/kuka_tool_description
+[submodule "robotnik_trajectory_pad"]
+	path = robotnik_trajectory_pad
+	url = https://github.com/asoriano1/robotnik_trajectory_pad
+[submodule "rqt_kuka"]
+	path = rqt_kuka
+	url = https://github.com/asoriano1/rqt_kuka
+[submodule "robotnik_msgs"]
+	path = robotnik_msgs
+	url = https://github.com/robotnikautomation/robotnik_msgs
